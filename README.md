@@ -8,8 +8,8 @@
 </div>
 
 
-这里是瀚海驿站基于Onedrive搭建的私人网盘
+这里是瀚海驿站基于OneDrive搭建的私有云盘
 
-（所以图标用的是Onedrive的logo）
+（所以图标用的是OneDrive的logo）
 
-搭建它的原因是因为很久之前用微软E5免费得到了Onedrive 5TB的空间，并且最近找到了  onedrive-vercel-index 这个项目（非常强大，吹爆），于是秉着不用白不用的精神搭建了这个私人文件分享网盘。
+搭建它是因为很久之前嫖了微软E5账号得到了OneDrive 5TB的容量，并且最近找到了  onedrive-vercel-index 这个项目（非常强大优秀，吹爆），于是秉着不用白不用的精神搭建了这个私有的文件分享云盘。
